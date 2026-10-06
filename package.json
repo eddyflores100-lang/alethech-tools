@@ -1,5 +1,5 @@
 {
-  "name": "alethech-tools",
+  "name": "alethech-cli",
   "version": "1.0.0",
   "description": "CLI tools for working with .aleth encrypted memory files — inspect, verify, search",
   "main": "src/index.js",
