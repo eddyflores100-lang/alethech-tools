@@ -1,0 +1,20 @@
+{
+  "name": "alethech-tools",
+  "version": "1.0.0",
+  "description": "CLI tools for working with .aleth encrypted memory files — inspect, verify, search",
+  "main": "src/index.js",
+  "bin": {
+    "alethech-tools": "bin/alethech-tools.js"
+  },
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "keywords": ["alethech", "aleth", "memory", "crypto", "ed25519", "cli", "tools"],
+  "license": "MIT",
+  "author": "AliceLabs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eddyflores100-lang/alethech-tools"
+  },
+  "dependencies": {}
+}
